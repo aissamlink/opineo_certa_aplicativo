@@ -2,7 +2,7 @@
   "ADS": {
 
 
-    "networkAd": "startapp",
+    "networkAd": "xxxx",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -12,7 +12,7 @@
     "max_banner": "13482be8f771efc7",
     "Native_max": "76d87171404718ed",
 
-    "startapp_id": "139480955",
+    "startapp_id": "xxxx",
 
     "show_cpa": false,
     "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
@@ -38,24 +38,24 @@
     "url_exit": "https://www.google.com/",
     "url_bottom_coins": "https://www.google.com/",
 
-    "Text_tips1": "Welcome Test Badr",
-    "Text_tips2": "Welcome Test Badr2",
-    "Text_tips3": "Welcome Test Badr3",
-    "Text_tips4": "Welcome Test Badr4",
-    "Text_tips5": "Welcome Test Badr5",
-    "Text_tips6": "Welcome Test Badr6",
-    "Text_tips7": "Welcome Test Badr7",
-    "Text_tips8": "Welcome Test Badr8",
+    "Text_tips1": "Discover a user-friendly interface that makes navigating Opinião Certa effortless.",
+    "Text_tips2": "Learn how Opinião Certa rewards you for sharing your opinions and completing surveys.",
+    "Text_tips3": "Find out how to sign up and create your Opinião Certa account in just a few steps",
+    "Text_tips4": "Explore a wide range of survey topics and categories tailored to your interests",
+    "Text_tips5": "Learn how Opinião Certa ensures the privacy and security of your personal information",
+    "Text_tips6": "Find tips on how to qualify for more surveys and maximize your earning potential",
+    "Text_tips7": "Learn about the rating and review system to provide valuable feedback on surveys",
+    "Text_tips8": "Explore the referral program and earn additional rewards for inviting friends to join Opinião Certa.",
 
 
-    "Text_title1": "Test Badr",
-    "Text_title2": "Test Badr2",
-    "Text_title3": "Test Badr3",
-    "Text_title4": "Test Badr4",
-    "Text_title5": "Test Badr5",
-    "Text_title6": "Test Badr6",
-    "Text_title7": "Test Badr7",
-    "Text_title8": "Test Badr8",
+    "Text_title1": "Discover how to track your survey history and monitor your earnings on Opinião Certa",
+    "Text_title2": "Learn about special promotions and bonuses that give you even more opportunities to earn rewards",
+    "Text_title3": "Find out how to withdraw your earnings and redeem your rewards on Opinião Certa",
+    "Text_title4": "Explore the FAQ section to find answers to common questions about Opinião Certa.",
+    "Text_title5": "Discover the community features where you can engage with other users and share insights",
+    "Text_title6": "Learn about the customer support options available to assist you with any inquiries or issues",
+    "Text_title7": "Explore the Opinião Certa app guide to make the most of your survey-taking experience and earn rewards",
+    "Text_title8": "please this app is guide if u think that we help you rate us",
 
 
     "Text_buttonCoins" : "Male",
@@ -66,7 +66,7 @@
 
     "CpaAds" : "false",
 
-    "Click_inter": "xxxx"
+    "Click_inter": "1"
 
   }
 }
